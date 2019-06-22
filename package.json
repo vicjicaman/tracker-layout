@@ -1,11 +1,11 @@
 {
-  "name": "@nebulario/app-layout",
+  "name": "@nebulario/tracker-layout",
   "version": "1.70.0-master",
   "description": "Notification functionality for apps",
   "main": "./dist/index.js",
-  "repository": "github.com:vicjicaman/app-notify.git",
-  "author": "Victor Jimenez <vic@nodeflow.io>",
-  "license": "UNLICENSED",
+  "repository": "github.com:vicjicaman/tracker-notify.git",
+  "author": "Victor Jimenez <vic@repoflow.com>",
+  "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^7.2.3",
     "babel-cli": "^6.26.0",
